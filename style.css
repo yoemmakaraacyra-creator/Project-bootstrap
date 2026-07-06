@@ -1,0 +1,35 @@
+body {
+  background-color: #224d89;
+  color: white;
+}
+
+.navbar {
+  background-color: black;
+
+}
+
+
+.card {
+  background-color: #111;
+  color: white;
+  border: 1px solid #333;
+}
+
+.hero {
+  text-align: center;
+  padding: 100px 20px;
+
+}
+.product-card {
+            background-color: #111111;
+            border: none;
+            border-radius: 8px;
+            overflow: hidden;
+        }
+        .product-card .card-body {
+            color: #ffffff;
+        }
+        .product-card .price {
+            color: #aaaaaa;
+            font-size: 0.9rem;
+        }
